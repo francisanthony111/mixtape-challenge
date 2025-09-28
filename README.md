@@ -29,6 +29,8 @@ This challenge is containerized using Docker for easy deployment.
 
 **Purpose:** Identify open ports and services on the target server.
 
+![Final Flag Screenshot](solution-screenshot.png).
+
 **Command:**
 ```bash
 nmap -A -p- <TARGET_IP>
