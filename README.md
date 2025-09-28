@@ -135,5 +135,5 @@ git pull origin main
 docker-compose up --build -d  ```
 
 
-![Final Flag Screenshot](image_8e86d7.png).
+![Final Flag Screenshot](solution-screenshot.png).
 
