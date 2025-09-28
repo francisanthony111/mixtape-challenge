@@ -132,8 +132,8 @@ cd mixtape-challenge
 git pull origin main
 
 # Rebuild and restart the container with the new code
-docker-compose up --build -d  ```
+docker-compose up --build -d  
 
-
+```
 ![Final Flag Screenshot](solution-screenshot.png).
 
