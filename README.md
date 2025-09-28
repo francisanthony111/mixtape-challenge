@@ -1,6 +1,6 @@
 # Mixtape Challenge: Backstage Pass
 
-This repository contains the source code and deployment files for a simple web-based Capture The Flag (CTF) challenge involving cookie manipulation.
+This repository contains the source code and deployment files for a simple web-based Capture the Flag (CTF) challenge that involves cookie manipulation.
 
 ### Overview
 
@@ -76,7 +76,7 @@ Final Output:
 
 Flag: UMBC_CTF{C00k13s_4r3_An_4dm1ns_B3st_Fr13nd}
 
-![Final Flag Screenshot](image_8e86d7.png).
+
 
 ---
 
@@ -131,6 +131,9 @@ cd mixtape-challenge
 # Pull the latest changes from the 'main' branch on GitHub
 git pull origin main
 
-# Re-build and restart the container with the new code
-docker-compose up --build -d
+# Rebuild and restart the container with the new code
+docker-compose up --build -d  ```
+
+
+![Final Flag Screenshot](image_8e86d7.png).
 
