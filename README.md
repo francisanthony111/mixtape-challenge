@@ -29,7 +29,7 @@ This challenge is containerized using Docker for easy deployment.
 
 **Purpose:** Identify open ports and services on the target server.
 
-![Final Flag Screenshot](solution-screenshot.png).
+
 
 **Command:**
 ```bash
@@ -75,6 +75,8 @@ After modifying the cookie, refresh the browser page. The server will now grant 
 Final Output:
 
 Flag: UMBC_CTF{C00k13s_4r3_An_4dm1ns_B3st_Fr13nd}
+
+![Final Flag Screenshot](image_8e86d7.png).
 
 ---
 
@@ -131,3 +133,4 @@ git pull origin main
 
 # Re-build and restart the container with the new code
 docker-compose up --build -d
+
